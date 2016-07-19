@@ -7,7 +7,7 @@ from subprocess import call
 FROM = 'brownelab94@gmail.com'
 TO = 'apham@ucdavis.edu'
 user = 'brownelab94'
-password = 'megawish'
+password = '*****'
 
 #retrieving file names
 loc = '/home/phamgouran/Browne_lab/Walnut_reads/Walnut_filtered'
