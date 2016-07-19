@@ -7,7 +7,7 @@ from subprocess import call
 FROM = 'apham@ucdavis.edu'
 TO = 'apham@ucdavis.edu'
 user = 'apham'
-password = 'evergreen_class_of_2012'
+password = '******'
 infected = '/home/phamgouran/Browne_lab/Walnut_reads/Walnut_filtered/ED-I-1.notwalnutplastids.fq'
 noninfected = '/home/phamgouran/Browne_lab/Walnut_reads/Walnut_filtered/ED-N-1.notwalnutplastids.fq'
 output = '/home/phamgouran/Browne_lab/Walnut_reads/Walnut_filtered/blastn_output_ED-I-1.out'
